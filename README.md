@@ -1,4 +1,10 @@
-# Telecommunication-Churn-Prediction
+# Project 1 Telecommunication-Churn-Prediction with ensemble model
+
+![Methodology drawio](https://github.com/HiIAmHuong/Telecommunication-Churn-Prediction-With-Clustering/assets/124865073/f0eb45d7-275d-41cf-b712-b88f2cff2854)
+
+Figure 0. Proposed methodology
+
+# Project 2 Telecommunication-Churn-Prediction with customer clustering
 
 ![image](https://github.com/HiIAmHuong/Telecommunication-Churn-Prediction/assets/124865073/be6cf1c6-3c11-4f4e-8ad5-081612b59577)
 
